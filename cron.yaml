@@ -1,0 +1,7 @@
+cron:
+- description: PostAndFollowBack
+  url: /PostAndFollowBack
+  schedule: every 60 minutes
+- description: ReplyAndFav
+  url: /ReplyAndFav
+  schedule: every 2 minutes
